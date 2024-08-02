@@ -1,5 +1,5 @@
 
-//LINK --https://leetcode.com/problems/validate-binary-search-tree/
+LINK --https://leetcode.com/problems/validate-binary-search-tree/
 #include<iostream>
 using namespace std;
 class Solution {
